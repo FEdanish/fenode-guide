@@ -1,8 +1,4 @@
-echo -e "\e[1;32m
-
-
-
-                        
+echo -e "\e[1;31m
 
  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄ 
 ▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌
@@ -14,15 +10,11 @@ echo -e "\e[1;32m
 ▐░▌               ▐░▌          
 ▐░▌               ▐░█▄▄▄▄▄▄▄▄▄ 
 ▐░▌               ▐░░░░░░░░░░░▌
- ▀                 ▀▀▀▀▀▀▀▀▀▀▀ 
-                               
+ ▀                 ▀▀▀▀▀▀▀▀▀▀▀   
+\e[0m"
 
-                          
+echo -e "\e[1;31m
 
-
-";
-echo -e "                 \033[48;2;9;10;12m feature earning \e[0m";
-echo -e "\e[0;37m Subscribe Our Telegram Channel: \e[4;35mhttps://t.me/feature_earning/";
-echo -e "\e[0m"
-echo -e ""
-echo -e ""
+    Telegram Channel : https://t.me/feature_earning
+      
+\e[0m"
